@@ -53,7 +53,6 @@ const Slideshow = () => {
 
 export default Slideshow;
 
-// Set background image for the entire page
 document.body.style.backgroundImage = `url('${backgroundImage}')`;
 document.body.style.backgroundSize = 'cover';
 document.body.style.backgroundRepeat = 'no-repeat';
